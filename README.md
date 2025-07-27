@@ -10,7 +10,7 @@
 
 - Хакер-тест 2021 - [Знатоки нанаосят ответный удар](https://xakep.mooovoi.org/)
 - Хакер-тест 2022 - [Кибермобилизация](https://xakep.mooovoi.org/2022mobile/)
-- Хакер-тест 2023 - [Онлайн-санаторий Bed Lama](https://xakep.mooovoi.org/2023bl/)
+- Хакер-тест 2023 - [Онлайн-санаторий "Bed Lama"](https://xakep.mooovoi.org/2023bl/)
 
 ## Deploy
 
