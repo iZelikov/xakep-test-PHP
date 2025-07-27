@@ -1,0 +1,1 @@
+$(document).ready(()=>{$('body').prepend('<div class=\"godmode\">GodMode ON / Режим Бессмертия</div>')})
