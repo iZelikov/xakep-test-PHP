@@ -1,4 +1,4 @@
-![Заставка с хакерами в масках Анонимусов](/blob/main/public/images/anons.jpg)
+![Заставка с хакерами в масках Анонимусов](public/images/anons.jpg)
 # Xakep-Test
 
 ## Легенда
