@@ -1,3 +1,4 @@
+![Заставка с хакерами в масках Анонимусов](https://github.com/iZelikov/xakep-test-PHP/blob/main/public/images/anons.jpg)
 # Xakep-Test
 
 ## Легенда
