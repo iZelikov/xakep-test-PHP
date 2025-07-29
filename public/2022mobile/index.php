@@ -46,6 +46,11 @@
 		if (isset($_GET['rank'])) {
 			$l = $_GET['rank'];			
 		}
+		if (isset($_GET['level'])) {
+			if ($_GET['level'] == 'start') {
+				$l = 0;
+			}			
+		}
 		if (isset($_POST['code'])) {			
 			$str = strtolower($_POST['code']);
 			if ($str == "orc0a" || $str == "orc 0a") return 10;
